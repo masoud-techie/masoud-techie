@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Masoud
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer**, **Java Developer**, and **Tech Enthusiast** with a knack for automation, testing, and building reliable software. I love turning complex problems into elegant solutions and constantly exploring new technologies.
+Welcome to my GitHub profile! I'm a passionate **Software Developer**, **Java Trainer**, and **Tech Enthusiast** with a knack for automation, testing, and building reliable software. I love turning complex problems into elegant solutions and constantly exploring new technologies.
 
 * * *
 
